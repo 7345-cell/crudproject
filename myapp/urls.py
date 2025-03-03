@@ -3,5 +3,5 @@ from.import views
 
 urlpatterns = [
 path('',views.user_list),
-    path('add/',views.add_user),
+    path('Add/',views.add_user),
 ]
